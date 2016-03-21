@@ -1,0 +1,31 @@
+{
+  "name": "wk19hw",
+  "version": "1.0.0",
+  "description": "mean staxk",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaV27/mean-stack.git"
+  },
+  "author": "Maria Vintimilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaV27/mean-stack/issues"
+  },
+  "homepage": "https://github.com/MariaV27/mean-stack#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.8",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "mean",
+    "stack"
+  ]
+}
